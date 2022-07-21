@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![Header](https://github.com/pavloging/pavloging/blob/main/simpson.gif)](https://t.me/pavloging)
+=======
+![image](https://github.com/pavloging/pavloging/blob/main/simpson.gif)
+>>>>>>> 22ee0d6dc606b59baa8c4959d8f63ce62950ee83
 
 ## Content/Apps/Games Creator
 
