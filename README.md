@@ -12,7 +12,7 @@
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
 
-### Latest YouTube Videos:
+### My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavloging&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
