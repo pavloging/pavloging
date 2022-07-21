@@ -18,12 +18,12 @@
 
 ### Languages and Tools:
 
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node&logoColor=097CDB)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express&logoColor=F8C52C)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=F8C52C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typyscript&logoColor=F88C00)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=E9D54D)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E5D3FF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=6296CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html&logoColor=6296CC)
