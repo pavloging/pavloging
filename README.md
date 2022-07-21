@@ -1,6 +1,6 @@
 [![Header](https://github.com/pavloging/pavloging/blob/main/welcome.gif)](https://t.me/pavloging)
 
-## Content/Apps/Games Creator
+## My Apps
 
 <a href="https://the-unl.com" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
@@ -14,14 +14,7 @@
 
 ### Latest YouTube Videos:
 
-<!-- YOUTUBE:START -->
-
-- [Flutter Shared Preferences за 5 минут. Как сохранять и получать данные из локального хранилища.](https://www.youtube.com/watch?v=Y4moxaiDoEg)
-- [Локализация приложения на Flutter за 5 минут используя пакет easy_localization](https://www.youtube.com/watch?v=GLR2TW64V6A)
-- [Dart уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
-- [Dart уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
-- [Dart уроки для начинающих #14 - typedef](https://www.youtube.com/watch?v=OVHnhjZzGWA)
-<!-- YOUTUBE:END -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavloging)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
