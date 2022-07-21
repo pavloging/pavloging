@@ -18,13 +18,17 @@
 
 ### Languages and Tools:
 
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![UX/UI](https://img.shields.io/badge/-UX/UI-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 ### Socials:
 
