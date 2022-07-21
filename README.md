@@ -1,4 +1,4 @@
-[![Header](https://github.com/pavloging/pavloging/blob/master/simpson.gif)](https://www.shpavda.com/)
+[![Header](https://github.com/pavloging/pavloging/blob/main/simpson.gif)](https://t.me/pavloging)
 
 ## Content/Apps/Games Creator
 
