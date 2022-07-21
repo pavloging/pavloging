@@ -18,17 +18,17 @@
 
 ### Languages and Tools:
 
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![UX/UI](https://img.shields.io/badge/-UX/UI-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node&logoColor=097CDB)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express&logoColor=F8C52C)
+![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=F8C52C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typyscript&logoColor=F88C00)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=E9D54D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E5D3FF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=6296CC)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html&logoColor=6296CC)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css&logoColor=6296CC)
+![UX/UI](https://img.shields.io/badge/-UX/UI-090909?style=for-the-badge&logo=ux&logoColor=6296CC)
 
 ### Socials:
 
