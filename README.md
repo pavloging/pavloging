@@ -18,7 +18,10 @@
 
 ### Languages and Tools:
 
+
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![ReactNative](https://img.shields.io/badge/-Expo-090909?style=for-the-badge&logo=node)
+![Expo](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=node)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb)
