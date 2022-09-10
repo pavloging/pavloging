@@ -41,3 +41,54 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/pavloging)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/pavloging)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/pavloging)
+
+### Summary:
+
+Занимаюсь разработкой 5 лет, мои pet-project можно найти на GitHub: 
+https://github.com/pavloging 
+
+Работаю с:
+1. Mobile
+•  React Native + Expo;
+•  Flutter + Dart;
+
+2. Fronend 
+•  React + TypeScript;
+•  Опыт разработки на Vue и Angular;
+•  MobX;
+•  Dom;
+•  Webpack;
+•  Git + GitFlow;
+•  HTML5, CSS3, JS;
+•  Sass;
+•  BEM;
+•  Bootstrap5+Tailwind;
+•  Lint/Prettier;
+•  Figma UX/UI;
+
+3. Backend
+•  Node.js + Express;
+•  REST/HTTP;
+•  MongoDB;
+•  Axios;
+
+Навыки/умения:
+•  Self-management;
+•  CI/CD;
+•  LocalStorage;
+•  Grid/Flex;
+•  Async/await;
+•  Cross-platform;
+•  Soft skills;
+•  S.O.L.I.D;
+•  Test/Create API;
+
+Есть портфолио с разными pet-проектами, которые регулярно пополняются. Я все время развеваюсь и не стою на месте, т.к. двигаюсь вместе с индустрией. Если возникает проблема в ходе работы, я её решаю самостоятельно. Человек я довольно общительный, считаю необходимым обмениваться опытом и занятиями.
+
+В данный момент разрабатываю собственное мобильное приложение и делаю сайт-аналог cs.money.
+
+Так же рассматриваю не официальное трудоустройство.
+
+Telegram: @pavloging 
+
+Готов ответить на ваши вопросы.
