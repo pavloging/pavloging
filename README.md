@@ -47,10 +47,10 @@
 Занимаюсь разработкой 5 лет, мои pet-project можно найти на GitHub: 
 https://github.com/pavloging 
 
-Работаю с:
-1. Mobile
-•  React Native + Expo;
-•  Flutter + Dart;
+Работаю с: 
+1. Mobile 
+•  React Native + Expo; 
+•  Flutter + Dart; 
 
 2. Fronend 
 •  React + TypeScript;
