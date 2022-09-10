@@ -1,6 +1,6 @@
 [![Header](https://github.com/pavloging/pavloging/blob/main/welcome.gif)](https://t.me/pavloging)
 
-## My Apps
+## My Apps/Мои Приложения
 
 <a href="https://cenema.netlify.app/" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
@@ -12,11 +12,11 @@
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
 
-### My Stats
+### My Stats/Моя Статистика
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavloging&show_icons=true&theme=merko&hide=contribs)
 
-### Languages and Tools:
+### Languages and Tools/Языки и Инструменты:
 
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
@@ -33,7 +33,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css)
 ![UX/UI](https://img.shields.io/badge/-UX/UI-090909?style=for-the-badge&logo=ux)
 
-### Socials:
+### Socials/Социальные Сети:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pavloging)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/pavloging)
@@ -42,81 +42,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/pavloging)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/pavloging)
 
-### Summary:
+### Summary/Резюме:
 
-Занимаюсь разработкой 5 лет, мои pet-project можно найти на GitHub: 
-https://github.com/pavloging 
 
-Работаю с: 
-
-1. Mobile
-
-•  React Native + Expo;
-
-•  Flutter + Dart;
-
-2. Fronend 
-
-•  React + TypeScript;
-
-•  Опыт разработки на Vue и Angular;
-
-•  MobX;
-
-•  Dom;
-
-•  Webpack;
-
-•  Git + GitFlow;
-
-•  HTML5, CSS3, JS;
-
-•  Sass;
-
-•  BEM;
-
-•  Bootstrap5+Tailwind;
-
-•  Lint/Prettier;
-
-•  Figma UX/UI;
-
-3. Backend
-
-•  Node.js + Express;
-
-•  REST/HTTP;
-
-•  MongoDB;
-
-•  Axios;
-
-Навыки/умения:
-
-•  Self-management;
-
-•  CI/CD;
-
-•  LocalStorage;
-
-•  Grid/Flex;
-
-•  Async/await;
-
-•  Cross-platform;
-
-•  Soft skills;
-
-•  S.O.L.I.D;
-
-•  Test/Create API;
-
-Есть портфолио с разными pet-проектами, которые регулярно пополняются. Я все время развеваюсь и не стою на месте, т.к. двигаюсь вместе с индустрией. Если возникает проблема в ходе работы, я её решаю самостоятельно. Человек я довольно общительный, считаю необходимым обмениваться опытом и занятиями.
-
-В данный момент разрабатываю собственное мобильное приложение и делаю сайт-аналог cs.money.
-
-Так же рассматриваю не официальное трудоустройство.
-
-Telegram: @pavloging 
-
-Готов ответить на ваши вопросы.
