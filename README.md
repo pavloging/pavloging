@@ -1,6 +1,6 @@
 [![Header](https://github.com/pavloging/pavloging/blob/main/welcome.gif)](https://t.me/pavloging)
 
-## My Apps/Мои Приложения
+## My Apps/Мои Приложения:
 
 <a href="https://cenema.netlify.app/" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
@@ -44,5 +44,5 @@
 
 ### Summary/Резюме:
 
-Посмотреть резюме в <a href="https://drive.google.com/file/d/1k8kpMDnSrVZlxyQF236Zvxy-t3mAuO1e/view?usp=sharing" target="_blank">PDF</a>.
+Посмотреть резюме в <a href="https://drive.google.com/file/d/1k8kpMDnSrVZlxyQF236Zvxy-t3mAuO1e/view?usp=sharing" target="_blank">PDF</a>
 
