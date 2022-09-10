@@ -44,4 +44,5 @@
 
 ### Summary/Резюме:
 
+Посмотреть резюме в <a href="https://drive.google.com/file/d/1k8kpMDnSrVZlxyQF236Zvxy-t3mAuO1e/view?usp=sharing" target="_blank">PDF</a>
 
