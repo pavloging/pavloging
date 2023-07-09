@@ -44,5 +44,5 @@
 
 ### Summary/Резюме:
 
-Посмотреть резюме в <a href="http://d.zaix.ru/AkFW.pdf"target="_blank">PDF</a>
+Посмотреть резюме в <a href="http://d.zaix.ru/AkFW.pdf" target="_blank">PDF</a>
 
