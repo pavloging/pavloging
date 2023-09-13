@@ -1,5 +1,15 @@
 [![Header](https://github.com/pavloging/pavloging/blob/main/welcome.gif)](https://t.me/pavloging)
 
+---
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Smart+Mainnet;Node.js+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
+</p>
+
+---
+
 ## My Apps/Мои Приложения:
 
 <a href="https://hypedroop.netlify.app/" target="_blank">
