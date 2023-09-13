@@ -1,4 +1,4 @@
-[![Header](https://github.com/pavloging/pavloging/blob/main/welcome.gif)](https://t.me/pavloging)
+[![Header](https://ic.wampi.ru/2023/01/30/header.gif)](https://t.me/pavloging)
 
 <img width="100%" src="https://ic.wampi.ru/2023/01/30/header.gif" >
 
