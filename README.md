@@ -42,12 +42,7 @@
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
 
-### My Stats/Моя Статистика
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavloging&show_icons=true&theme=merko&hide=contribs)
-
 ### Languages and Tools/Языки и Инструменты:
-
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![ReactNative](https://img.shields.io/badge/-Expo-090909?style=for-the-badge&logo=node)
