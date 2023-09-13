@@ -21,7 +21,12 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me
-  <a href="https://t.me/SmartMainnet">
+  <a href="https://t.me/pavloging">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white">
+  </a>
+
+- 🎙 My blog
+  <a href="https://t.me/pavloging_way">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white">
   </a>
 
