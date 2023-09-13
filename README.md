@@ -1,5 +1,39 @@
 [![Header](https://github.com/pavloging/pavloging/blob/main/welcome.gif)](https://t.me/pavloging)
 
+<img width="100%" src="https://ic.wampi.ru/2023/01/30/header.gif" >
+
+---
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Smart+Mainnet;Node.js+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
+</p>
+
+---
+
+<br>
+
+<p align="right">
+  <img align="right" width="400" src="https://i.pinimg.com/originals/2d/90/92/2d9092a49b889204284f0dea4ce7ec8b.gif">
+</p>
+
+- 👤 I’m **19** years old
+
+- 🔭 I’m currently working on **something cool !**
+
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me
+  <a href="https://t.me/SmartMainnet">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white">
+  </a>
+
+<br>
+<br>
+
+---
+
 ---
 
 <br>
