@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Smart+Mainnet;Node.js+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Pavloging;Middle+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
 </p>
 
 ---
@@ -27,16 +27,6 @@
 
 <br>
 <br>
-
----
-
----
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Pavloging;Middle+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
-</p>
 
 ---
 
