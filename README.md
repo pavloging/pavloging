@@ -20,15 +20,9 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me
-  <a href="https://t.me/pavloging">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=black">
-  </a>
+- 📫 How to reach <a href="https://t.me/pavloging">me</a>
 
-- 🎙 My blog
-  <a href="https://t.me/pavloging_way">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=black">
-  </a>
+- 🎙 My <a href="https://t.me/pavloging_way">blog</a>
 
 <br>
 <br>
