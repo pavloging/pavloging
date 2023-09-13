@@ -11,7 +11,7 @@
 <br>
 
 <p align="right">
-  <img align="right" width="400" src="https://i.pinimg.com/originals/2d/90/92/2d9092a49b889204284f0dea4ce7ec8b.gif">
+  <img align="right" width="400" src="[https://i.pinimg.com/originals/2d/90/92/2d9092a49b889204284f0dea4ce7ec8b.gif](https://media.giphy.com/media/m7nQTi7igRIAhSEFef/giphy.gif)">
 </p>
 
 - 👤 I’m **18** years old
