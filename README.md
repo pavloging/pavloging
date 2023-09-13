@@ -26,8 +26,8 @@
   </a>
 
 - 🎙 My blog
-  <a style="position: relative; top: 5px; left: 2px;" href="https://t.me/pavloging_way">
-    <img style="width: 20px; height: 20px;" src="https://media2.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=6c09b952uvwm2vuxtmz50xb554nbkc3nsws5l8mfsqnnlg66&ep=v1_gifs_search&rid=giphy.gif&ct=s">
+  <a href="https://t.me/pavloging_way">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=black">
   </a>
 
 <br>
