@@ -14,7 +14,7 @@
   <img align="right" width="400" src="https://i.pinimg.com/originals/2d/90/92/2d9092a49b889204284f0dea4ce7ec8b.gif">
 </p>
 
-- 👤 I’m **19** years old
+- 👤 I’m **18** years old
 
 - 🔭 I’m currently working on **something cool !**
 
@@ -30,7 +30,7 @@
 
 ---
 
-## My Apps/Мои Приложения:
+## My Apps:
 
 <a href="https://hypedroop.netlify.app/" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
@@ -42,7 +42,7 @@
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
 
-### Languages and Tools/Языки и Инструменты:
+### Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![ReactNative](https://img.shields.io/badge/-Expo-090909?style=for-the-badge&logo=node)
@@ -58,16 +58,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css)
 ![UX/UI](https://img.shields.io/badge/-UX/UI-090909?style=for-the-badge&logo=ux)
 
-### Socials/Социальные Сети:
+### Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pavloging)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/pavloging)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/pavloging)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/pavloging)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/pavlogingg)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/pavloging)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/pavloging)
 
-### Summary/Резюме:
+### Summary:
 
 Посмотреть резюме в <a href="http://d.zaix.ru/AkFW.pdf" target="_blank">PDF</a>
 
