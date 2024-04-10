@@ -18,8 +18,6 @@
 
 - 🎙 My <a href="https://t.me/pavloging_way">blog</a>
 
-<br>
-
 ### My template:
 <ul>
   <li><a href="https://github.com/pavloging/webpack-ts-template">Webpack JS</a></li>
