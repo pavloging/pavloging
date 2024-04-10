@@ -5,10 +5,10 @@
 <p align="right">
     <img align="right" width="400" src="https://github.com/pavloging/pavloging/blob/main/welcome.gif?raw=true">
 </p>
+---
 
 <br>
 
----
 
 ### About me:
 
