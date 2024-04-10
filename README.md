@@ -24,9 +24,9 @@
 ### My template:
 <ul>
   <li><a href="https://github.com/pavloging/webpack-ts-template">Webpack</a></li>
-  <li><a href="https://github.com/pavloging/react-testing-ts-template">React Testing</a></li>
-  <li><a href="https://github.com/pavloging/node-ts-template">Node</a></li>
-  <li><a href="https://github.com/pavloging/bot-ts-template">Telegram bot</a></li>
+  <li><a href="https://github.com/pavloging/react-testing-ts-template">React Testing TypeScript</a></li>
+  <li><a href="https://github.com/pavloging/node-ts-template">Node TypeScript</a></li>
+  <li><a href="https://github.com/pavloging/bot-ts-template">Telegram bot TypeScript</a></li>
 </ul>
 
 ### Socials:
