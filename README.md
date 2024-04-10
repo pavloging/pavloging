@@ -6,6 +6,8 @@
     <img align="right" width="400" src="https://github.com/pavloging/pavloging/blob/main/welcome.gif?raw=true">
 </p>
 
+---
+
 <br>
 
 - 🔭 I’m currently working on **something cool !**
@@ -19,33 +21,13 @@
 <br>
 <br>
 
-## My Apps:
-
-<a href="https://hypedroop.netlify.app/" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
-</a>
-<a href="https://github.com/pavloging/TrainX" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
-</a>
-<a href="https://cenema.netlify.app/" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
-</a>
-
-### Languages and Tools:
-
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/-Expo-090909?style=for-the-badge&logo=node)
-![Expo](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=node)
-![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
-![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typyscript)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css)
-![UX/UI](https://img.shields.io/badge/-UX/UI-090909?style=for-the-badge&logo=ux)
+### My template:
+<ul>
+  <li><a href="https://github.com/pavloging/webpack-ts-template">Webpack</a></li>
+  <li><a href="https://github.com/pavloging/react-testing-ts-template">React Testing</a></li>
+  <li><a href="https://github.com/pavloging/node-ts-template">Node</a></li>
+  <li><a href="https://github.com/pavloging/bot-ts-template">Telegram bot</a></li>
+</ul>
 
 ### Socials:
 
