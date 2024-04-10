@@ -23,10 +23,10 @@
 
 ### My template:
 <ul>
-  <li><a href="https://github.com/pavloging/webpack-ts-template">Webpack</a></li>
-  <li><a href="https://github.com/pavloging/react-testing-ts-template">React Testing TypeScript</a></li>
-  <li><a href="https://github.com/pavloging/node-ts-template">Node TypeScript</a></li>
-  <li><a href="https://github.com/pavloging/bot-ts-template">Telegram bot TypeScript</a></li>
+  <li><a href="https://github.com/pavloging/webpack-ts-template">Webpack JS</a></li>
+  <li><a href="https://github.com/pavloging/react-testing-ts-template">React Testing TS</a></li>
+  <li><a href="https://github.com/pavloging/node-ts-template">Node TS</a></li>
+  <li><a href="https://github.com/pavloging/bot-ts-template">Telegram bot TS</a></li>
 </ul>
 
 ### Socials:
