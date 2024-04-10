@@ -2,14 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Pavloging;Middle+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
 </p>
 
-<p align="right">
-    <img align="right" width="400" src="https://github.com/pavloging/pavloging/blob/main/welcome.gif?raw=true">
-</p>
-
 ---
 
-<br>
-
+<p align="right">
+    <img align="right" width="400" src="https://github.com/pavloging/pavloging/blob/main/welcome.gif">
+</p>
 
 ### About me:
 
