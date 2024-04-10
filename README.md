@@ -19,7 +19,6 @@
 - 🎙 My <a href="https://t.me/pavloging_way">blog</a>
 
 <br>
-<br>
 
 ### My template:
 <ul>
