@@ -35,5 +35,5 @@
 
 ### Summary:
 
-Посмотреть резюме в <a href="http://d.zaix.ru/AkFW.pdf" target="_blank">PDF</a>
+Посмотреть резюме в <a href="https://www.dropbox.com/scl/fi/oxvufmgdy2l3x95n96ow5/Resume-Pavlov-Egor-Frontend-Developer.pdf?rlkey=2blx7fdrhpro58bih5juc3cv1&st=am5exwy8&dl=0" target="_blank">PDF</a>
 
